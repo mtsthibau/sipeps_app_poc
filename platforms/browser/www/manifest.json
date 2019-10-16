@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "SipepsApp",
+  "short_name": "SipepsApp",
+  "version": "com.feluma.sipeps_app",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "author": "FELUMA - Instituto Agos",
+  "icons": [],
+  "start_url": "www.sipeps.institutoagos.com.br/sipeps"
+}
